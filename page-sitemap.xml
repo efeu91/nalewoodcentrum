@@ -1,110 +1,110 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//marek-knappe.github.io/nalewoodcentrum/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.nalewoodcentrum.pl/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://marek-knappe.github.io/nalewoodcentrum/</loc>
+		<loc>https://www.nalewoodcentrum.pl/</loc>
 	</url>
 	<url>
-		<loc>https://marek-knappe.github.io/nalewoodcentrum/minimalistyczny-kalendarz-podrozniczy/</loc>
+		<loc>https://www.nalewoodcentrum.pl/minimalistyczny-kalendarz-podrozniczy/</loc>
 		<lastmod>2017-12-22T15:21:17+00:00</lastmod>
 		<image:image>
-			<image:loc>http://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2017/12/B7746622-6903-4C96-A11A-6E7DA7E9E308.jpeg</image:loc>
+			<image:loc>http://www.nalewoodcentrum.pl/wp-content/uploads/2017/12/B7746622-6903-4C96-A11A-6E7DA7E9E308.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2017/12/D768E62E-EE40-450F-B148-F806AC8792D0.jpeg</image:loc>
+			<image:loc>http://www.nalewoodcentrum.pl/wp-content/uploads/2017/12/D768E62E-EE40-450F-B148-F806AC8792D0.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2017/12/D12F9C97-6422-453A-91C7-39E0923A0F73.jpeg</image:loc>
+			<image:loc>http://www.nalewoodcentrum.pl/wp-content/uploads/2017/12/D12F9C97-6422-453A-91C7-39E0923A0F73.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2017/12/6.jpg</image:loc>
+			<image:loc>http://www.nalewoodcentrum.pl/wp-content/uploads/2017/12/6.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2017/12/8.jpg</image:loc>
+			<image:loc>http://www.nalewoodcentrum.pl/wp-content/uploads/2017/12/8.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2017/12/58A3CEDE-326B-438D-AD75-BBE55A149F42.jpeg</image:loc>
+			<image:loc>http://www.nalewoodcentrum.pl/wp-content/uploads/2017/12/58A3CEDE-326B-438D-AD75-BBE55A149F42.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://marek-knappe.github.io/nalewoodcentrum/wspolpraca-blog-podrozniczy/</loc>
+		<loc>https://www.nalewoodcentrum.pl/wspolpraca-blog-podrozniczy/</loc>
 		<lastmod>2019-03-17T08:07:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2019/03/blog_podrozniczy_jolanta_lisicka.jpg</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2019/03/blog_podrozniczy_jolanta_lisicka.jpg</image:loc>
 			<image:title><![CDATA[blog_podrozniczy_jolanta_lisicka]]></image:title>
 			<image:caption><![CDATA[blog podróżniczy jolanta lisicka]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2016/12/001-heart.png</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2016/12/001-heart.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2016/12/002-facebook.png</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2016/12/002-facebook.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2016/12/003-instagram.png</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2016/12/003-instagram.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2016/12/001-heart.png</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2016/12/001-heart.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2016/12/003-instagram.png</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2016/12/003-instagram.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2016/12/002-facebook.png</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2016/12/002-facebook.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2016/12/warsztat-warszawski-1.png</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2016/12/warsztat-warszawski-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2016/12/001-heart.png</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2016/12/001-heart.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2016/12/002-facebook.png</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2016/12/002-facebook.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2016/12/002-facebook.png</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2016/12/002-facebook.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://marek-knappe.github.io/nalewoodcentrum/w-mediach/</loc>
+		<loc>https://www.nalewoodcentrum.pl/w-mediach/</loc>
 		<lastmod>2019-03-17T09:36:01+00:00</lastmod>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2018/09/pustynia-danakilska-etiopia-24.jpg</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2018/09/pustynia-danakilska-etiopia-24.jpg</image:loc>
 			<image:caption><![CDATA[pustynia danakilska]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2018/06/jolanta-lisicka-blog.jpg</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2018/06/jolanta-lisicka-blog.jpg</image:loc>
 			<image:caption><![CDATA[jolanta-lisicka-blog]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://marek-knappe.github.io/nalewoodcentrum/blog-podrozniczy/</loc>
+		<loc>https://www.nalewoodcentrum.pl/blog-podrozniczy/</loc>
 		<lastmod>2020-09-05T18:05:48+00:00</lastmod>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2019/02/blog_podrozniczy_na_lewo_od_centrum.jpg</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2019/02/blog_podrozniczy_na_lewo_od_centrum.jpg</image:loc>
 			<image:title><![CDATA[blog_podrozniczy_na_lewo_od_centrum]]></image:title>
 			<image:caption><![CDATA[blog podróżniczy na lewo od centrum]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2018/11/blog_podrozniczy_na_lewo_od_centrum-2.jpg</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2018/11/blog_podrozniczy_na_lewo_od_centrum-2.jpg</image:loc>
 			<image:title><![CDATA[fot. Agata Dobrzańska]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://marek-knappe.github.io/nalewoodcentrum/lista-marzen/</loc>
+		<loc>https://www.nalewoodcentrum.pl/lista-marzen/</loc>
 		<lastmod>2020-09-05T18:08:23+00:00</lastmod>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2018/09/pustynia-danakilska-etiopia-37.jpg</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2018/09/pustynia-danakilska-etiopia-37.jpg</image:loc>
 			<image:caption><![CDATA[pustynia danakilska]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2019/03/lista_marzen_na_lewo_od_centrum.jpg</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2019/03/lista_marzen_na_lewo_od_centrum.jpg</image:loc>
 			<image:caption><![CDATA[lista marzeń na lewo od centrum]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2017/11/1-25-1.jpg</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2017/11/1-25-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marek-knappe.github.io/nalewoodcentrum/wp-content/uploads/2017/05/img094-3.jpg</image:loc>
+			<image:loc>https://www.nalewoodcentrum.pl/wp-content/uploads/2017/05/img094-3.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
